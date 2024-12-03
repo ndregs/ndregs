@@ -29,140 +29,109 @@ Terminal: Alacritty + Kitty
 
 ---
 
-## 🧬 **ABOUT ME**
-
-> 🧠 A **Linux Quantum Architect** leveraging the power of **Manjaro** and **Arch Linux** to drive innovation.  
-> 🌟 Dedicated to **open-source development**, **automation**, and **hyper-efficient systems**.  
-> 🏗️ Building sustainable, futuristic software solutions powered by **Linux ecosystems**.  
-
-### 🔥 **WHY LINUX?**
-- **Freedom**: Full control over my environment.  
-- **Performance**: Optimized for coding, development, and real-time computing.  
-- **Community**: Collaborating with thousands of like-minded innovators worldwide.  
-- **Adaptability**: Custom workflows that align with cutting-edge technologies.  
-
----
-
-## 🌟 **MY LINUX TECH STACK**
-
-### 🛠️ **CORE SYSTEMS**
-- **Desktop Environments**: KDE Plasma, GNOME, and i3-gaps WM  
-- **File Manager**: Dolphin, Thunar  
-- **Terminal Multiplexer**: Tmux  
-- **Fonts**: JetBrains Mono, FiraCode Nerd Font  
-
-### 📦 **TOOLCHAINS & UTILITIES**
-| **Purpose**              | **Tools**                            |
-|--------------------------|--------------------------------------|
-| **Coding**               | Neovim, VSCode Codium               |
-| **System Monitoring**    | htop, btop                          |
-| **Version Control**      | Git, Lazygit                        |
-| **Package Management**   | Pacman, Yay, paru                   |
-| **Containerization**     | Docker, Podman, Kubernetes          |
-| **Automation**           | Ansible, Bash Scripting, Cron Jobs  |
-| **Virtualization**       | QEMU, KVM, VirtualBox               |
-| **Networking**           | OpenSSH, WireGuard, Nmap            |
-
----
-
-## 🚀 **PROJECTS POWERED BY LINUX**
-
-### **[PROJECT #1: LINUX AI SYSTEM]**
-- **Goal**: Develop AI models optimized for Linux-based clusters.  
-- **Stack**: TensorFlow, PyTorch, Kubernetes, Docker  
-
-### **[PROJECT #2: OPEN-SOURCE TOOLCHAIN FOR ARCH LINUX]**
-- **Goal**: Automate system builds using Arch Linux core principles.  
-- **Stack**: Bash, Python, Pacman hooks  
-
-### **[PROJECT #3: CUSTOM MANJARO LINUX ISO]**
-- **Goal**: Create a personalized ISO tailored for development workflows.  
-- **Stack**: Manjaro Tools, mkinitcpio, Xfce customizations  
-
----
-
-## 🏆 **MY OPEN-SOURCE CONTRIBUTIONS**
+## 🌟 **LINUX VISUALIZATION**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ndregs&theme=matrix&no-frame=true&row=1&column=8" alt="Achievements">
-</div>
 
-### 🎖️ **NOTABLE CONTRIBUTIONS**
-- 📦 Contributed to **AUR packages** for community use.  
-- 🛠️ Maintained custom **dotfiles repository** for Linux customization.  
-- 🔄 Developed automation scripts for **Manjaro System Updates**.  
-
----
-
-## 🌌 **ARCH & MANJARO IN ACTION**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,docker,kubernetes,python,rust,neovim" alt="Tech Skills" />
-</div>
-
-### **LINUX DOMINATED AREAS**
-| 🌟 **Field**              | 💡 **Impact**                       |
-|--------------------------|-------------------------------------|
-| **AI Development**       | Optimized model training on Linux  |
-| **System Automation**    | Streamlined workflows using Bash   |
-| **DevOps**               | Automated CI/CD pipelines          |
-| **Gaming**               | Steam + Proton for Linux gaming    |
+### **Interactive Neofetch Style**
+```bash
+███████████████████████████
+████ ▀███████▀ █████ ████
+████ 🐧 LINUX ░ ░████ ████
+████ Arch-based ░████ ████
+████ 🛠 System: Manjaro ████
+████ 💻 Kernel: 6.x LTS ████
+████ 🖥 WM: i3-gaps ░████ ████
+████ ████████████████████████
+```
 
 ---
 
-## 📂 **MY DOTFILES**
+![Custom Neofetch](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/ndregs/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndregs&repo=dotfiles&theme=highcontrast" alt="Dotfiles">
-  </a>
-  <a href="https://github.com/ndregs/linux-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndregs&repo=linux-automation&theme=highcontrast" alt="Linux Automation">
-  </a>
 </div>
 
 ---
 
-## 📊 **INTERACTIVE LINUX METRICS**
+## ✨ **MODERN LINUX ANIMATIONS**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-  <img src="https://streak-stats.demolab.com/?user=ndregs&theme=highcontrast" alt="Streak Stats">
+  <img src="https://raw.githubusercontent.com/yourusername/linux-animation/main/terminal.gif" alt="Terminal Animation" width="700"/>
 </div>
 
 ---
 
-## 📜 **MY FAVORITE ALIASES**
+## 🖥️ **TECH-POWERED WORKSPACE**
+
+<div align="center">
+
+### Desktop Preview
+![Workspace](https://your-custom-gif-url/workspace.gif)
+
+### Tools in Action
+![Tools Showcase](https://your-custom-gif-url/tools.gif)
+
+</div>
+
+---
+
+## 💡 **INNOVATIVE LINUX USAGE**
+
+| **Feature**               | **Description**                                                |
+|---------------------------|--------------------------------------------------------------|
+| 🧠 **AI Training**        | Optimized using Linux-based high-performance clusters         |
+| 🛠️ **Automation**        | Custom scripts for fast, repeatable workflows                |
+| 🌌 **Virtualization**     | Running lightweight VMs for experimentation and testing       |
+| 🎮 **Gaming on Linux**    | Seamless experience with Steam + Proton                      |
+| 📦 **Custom Linux ISOs**  | Tailored Linux distributions for productivity and gaming      |
+
+---
+
+## 🎨 **DESKTOP CUSTOMIZATION**
 
 ```bash
-alias update='sudo pacman -Syu'
-alias clean='sudo pacman -Rns $(pacman -Qdtq)'
-alias g='git'
-alias v='nvim'
-alias htop='btop'
-alias dockerprune='docker system prune -a --volumes'
+# Color Scheme: Dracula + Nord Mix
+alias theme='set -g theme nord-dracula'
 ```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Theme-Dracula%20%7C%20Nord-blueviolet?style=for-the-badge&logo=palantir&logoColor=white" />
+</div>
+
+---
+
+## 🌐 **MODERN LINUX CONTRIBUTION**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=8" alt="Achievements" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+## 🚀 **LIVE TERMINAL PREVIEW**
+
+<div align="center">
+  <img src="https://your-live-terminal-preview-url" alt="Live Terminal" width="800" />
+</div>
 
 ---
 
 ## 💬 **QUOTE TO INSPIRE**
 
-> "Linux is not just an OS; it's a philosophy, a journey, and a community of boundless innovation."
-> — The Open Source Enthusiast
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndregs&color=blueviolet&style=plastic&label=NEURAL+INTERACTIONS)
+> "Linux isn't just an OS; it's a community of innovation where technology and freedom intersect."
+> — [NAMA ANDA]
 ```
 
 ---
 
-### **Fitur Baru dan Tambahan:**
+### **Highlight Baru:**
 
-1. **Linux Style Integration**: Menonjolkan penggunaan **Manjaro** dan **Arch Linux**.
-2. **Alias & Tool Showcase**: Tampilkan alias bash favorit dan toolchain Linux.
-3. **Dotfiles Repository**: Visualisasi repositori untuk menonjolkan kontribusi Linux.
-4. **Filosofi Linux**: Penekanan pada pentingnya open-source dan fleksibilitas.
-5. **Statistik Interaktif**: Menambahkan grafis untuk aktivitas Linux.
+1. **Interactive Neofetch**: Simulasi **Neofetch-style visual** untuk memberikan kesan langsung tentang sistem kamu.
+2. **Linux Animations**: GIF terminal modern yang menunjukkan penggunaan Linux nyata (contoh workspace atau tools running).
+3. **Innovative Linux Usage**: Fitur-fitur Linux yang menunjukkan inovasi seperti AI, otomatisasi, dan gaming.
+4. **Desktop Preview & Customization**: Tambahkan **preview desktop dan tema** untuk memamerkan sistem yang kamu bangun.
+5. **Live Terminal Preview**: Menampilkan tampilan terminal dalam bentuk animasi atau live render.  
+6. **Modern Stats**: Integrasi **GitHub stats** dengan tampilan modern untuk melengkapi daya tarik visual.
 
-Profil ini menampilkan kamu sebagai **power-user Linux**, sekaligus pengembang yang berkomitmen terhadap **open-source** dan **teknologi masa depan**! 🚀
+Profil ini mengintegrasikan keahlianmu menggunakan Linux sekaligus menonjolkan **gaya modern dan canggih**! 🚀
