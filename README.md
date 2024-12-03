@@ -1,148 +1,168 @@
-# 🌌 **QUANTUM DIGITAL ARCHITECT**: [NAMA ANDA]
+# 🐧 **LINUX QUANTUM ARCHITECT**: [NAMA ANDA]
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🔮+Redefining+Technological+Boundaries+;🚀+Crafting+the+Future+of+Reality+;🌍+Empowering+Humanity+Through+Innovation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🐧+Proud+Linux+User;🌟+Manjaro+%26+Arch+Linux+Enthusiast;🚀+Building+Futuristic+Open-Source+Ecosystems" alt="Typing SVG">
 </div>
 
 ---
 
-## 🔮 **ADVANCED SYSTEM INITIALIZATION**
+## 🐧 **LINUX INIT SYSTEM**
 
-```quantum-interface
-> SYSTEM_INITIALIZATION = [100%]
-> INNOVATION_ENGINE = [MULTIVERSAL]
-> DIMENSION_STATUS = [ACTIVE]
-> CREATIVITY_LIMIT = [∞]
+```bash
+# SYSTEM INIT CONFIG
+OS: Manjaro Linux + Arch Linux
+Kernel: Custom-Optimized 6.x LTS
+WM: i3-gaps | KDE Plasma | GNOME
+Shell: Zsh + Powerlevel10k
+Packages: Pacman + AUR Master
+Editor: Neovim + VSCode (Codium)
+Terminal: Alacritty + Kitty
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://img.shields.io/badge/Linux-Manjaro%20%7C%20Arch-blue?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Zsh%20%7C%20Alacritty-blueviolet?style=for-the-badge&logo=gnometerminal&logoColor=white" />
 </div>
 
 ---
 
 ## 🧬 **ABOUT ME**
 
-> 🧠 A **Quantum Digital Architect** blending **technology** and **imagination** to shape a better future.  
-> 🌟 Passionate about **AI ecosystems**, **blockchain revolutions**, and **quantum paradigms**.  
-> 🏗️ Builder of **futuristic software architectures** and **hyper-dimensional systems**.  
+> 🧠 A **Linux Quantum Architect** leveraging the power of **Manjaro** and **Arch Linux** to drive innovation.  
+> 🌟 Dedicated to **open-source development**, **automation**, and **hyper-efficient systems**.  
+> 🏗️ Building sustainable, futuristic software solutions powered by **Linux ecosystems**.  
 
-### 🔥 **MY CORE SPECIALTIES**
-- 🚀 **AI Systems Development**: Generative AI, Autonomous Systems, Predictive Models  
-- 🌌 **Quantum Innovations**: Multi-dimensional Modeling, Quantum Computing Frameworks  
-- 🌍 **Blockchain Architectures**: Decentralized Platforms, Trustless Systems  
-- 🎨 **Metaverse Builder**: 3D Interactive Systems, Immersive Virtual Reality  
+### 🔥 **WHY LINUX?**
+- **Freedom**: Full control over my environment.  
+- **Performance**: Optimized for coding, development, and real-time computing.  
+- **Community**: Collaborating with thousands of like-minded innovators worldwide.  
+- **Adaptability**: Custom workflows that align with cutting-edge technologies.  
 
 ---
 
-## 🌟 **MY TECHNOLOGICAL ECOSYSTEM**
+## 🌟 **MY LINUX TECH STACK**
+
+### 🛠️ **CORE SYSTEMS**
+- **Desktop Environments**: KDE Plasma, GNOME, and i3-gaps WM  
+- **File Manager**: Dolphin, Thunar  
+- **Terminal Multiplexer**: Tmux  
+- **Fonts**: JetBrains Mono, FiraCode Nerd Font  
+
+### 📦 **TOOLCHAINS & UTILITIES**
+| **Purpose**              | **Tools**                            |
+|--------------------------|--------------------------------------|
+| **Coding**               | Neovim, VSCode Codium               |
+| **System Monitoring**    | htop, btop                          |
+| **Version Control**      | Git, Lazygit                        |
+| **Package Management**   | Pacman, Yay, paru                   |
+| **Containerization**     | Docker, Podman, Kubernetes          |
+| **Automation**           | Ansible, Bash Scripting, Cron Jobs  |
+| **Virtualization**       | QEMU, KVM, VirtualBox               |
+| **Networking**           | OpenSSH, WireGuard, Nmap            |
+
+---
+
+## 🚀 **PROJECTS POWERED BY LINUX**
+
+### **[PROJECT #1: LINUX AI SYSTEM]**
+- **Goal**: Develop AI models optimized for Linux-based clusters.  
+- **Stack**: TensorFlow, PyTorch, Kubernetes, Docker  
+
+### **[PROJECT #2: OPEN-SOURCE TOOLCHAIN FOR ARCH LINUX]**
+- **Goal**: Automate system builds using Arch Linux core principles.  
+- **Stack**: Bash, Python, Pacman hooks  
+
+### **[PROJECT #3: CUSTOM MANJARO LINUX ISO]**
+- **Goal**: Create a personalized ISO tailored for development workflows.  
+- **Stack**: Manjaro Tools, mkinitcpio, Xfce customizations  
+
+---
+
+## 🏆 **MY OPEN-SOURCE CONTRIBUTIONS**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,javascript,react,threejs,svelte,tensorflow,graphql,fastapi,kubernetes,docker,ai,linux,solidity" alt="Tech Skills" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ndregs&theme=matrix&no-frame=true&row=1&column=8" alt="Achievements">
 </div>
 
-### 🛠️ **TOOLS I MASTER**
-- **Coding & Frameworks**: TensorFlow, PyTorch, Three.js, Next.js, Deno  
-- **Cloud & DevOps**: AWS, Azure, Kubernetes, Terraform  
-- **Databases**: Neo4j, PostgreSQL, MongoDB, Redis  
-- **Blockchain**: Solidity, Rust, Hardhat, Chainlink  
+### 🎖️ **NOTABLE CONTRIBUTIONS**
+- 📦 Contributed to **AUR packages** for community use.  
+- 🛠️ Maintained custom **dotfiles repository** for Linux customization.  
+- 🔄 Developed automation scripts for **Manjaro System Updates**.  
 
 ---
 
-## 🚀 **CURRENT MISSIONS**
-
-### **[PROJECT #1: NEXT-GEN AI SYSTEM]**
-- 💡 **Objective**: Develop an autonomous AI system with real-time predictive capabilities.  
-- ⚙️ **Tech Stack**: Python, TensorFlow, Kubernetes  
-- 🌟 **Impact**: Revolutionize data-driven decision-making in the supply chain.  
-
-### **[PROJECT #2: DECENTRALIZED NETWORK]**
-- 💡 **Objective**: Create a scalable multi-chain ecosystem for trustless financial systems.  
-- ⚙️ **Tech Stack**: Rust, Solidity, Web3  
-- 🌟 **Impact**: Empower financial independence globally.  
-
-### **[PROJECT #3: METAVERSE COLLABORATION TOOL]**
-- 💡 **Objective**: Build an immersive VR collaboration platform.  
-- ⚙️ **Tech Stack**: Three.js, Blender, AI Integration  
-- 🌟 **Impact**: Redefine remote work productivity in 3D environments.  
-
----
-
-## 🏆 **GALAXY OF ACHIEVEMENTS**
+## 🌌 **ARCH & MANJARO IN ACTION**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&row=2&column=4" alt="Achievements">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,docker,kubernetes,python,rust,neovim" alt="Tech Skills" />
 </div>
 
-### 🎖️ **AWARDS & RECOGNITIONS**
-- 🌌 **Innovator of the Year**: Recognized for contributions in quantum AI.  
-- 🏆 **Top Open Source Contributor**: Developed key libraries for Web3 adoption.  
-- 📜 **Blockchain Visionary Award**: Architected scalable decentralized systems.  
+### **LINUX DOMINATED AREAS**
+| 🌟 **Field**              | 💡 **Impact**                       |
+|--------------------------|-------------------------------------|
+| **AI Development**       | Optimized model training on Linux  |
+| **System Automation**    | Streamlined workflows using Bash   |
+| **DevOps**               | Automated CI/CD pipelines          |
+| **Gaming**               | Steam + Proton for Linux gaming    |
 
 ---
 
-## 📊 **INTERACTIVE GITHUB METRICS**
+## 📂 **MY DOTFILES**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula&hide_border=true" alt="Activity Graph">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=merko" alt="Streak Stats">
+  <a href="https://github.com/ndregs/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndregs&repo=dotfiles&theme=highcontrast" alt="Dotfiles">
+  </a>
+  <a href="https://github.com/ndregs/linux-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndregs&repo=linux-automation&theme=highcontrast" alt="Linux Automation">
+  </a>
 </div>
 
 ---
 
-## 🌐 **TECHNOLOGY DOMAINS**
-
-| 🌟 **Domain**         | 🔬 **Expertise**                  | 🔮 **Vision**                     |
-|-----------------------|-----------------------------------|------------------------------------|
-| **AI & ML**          | Generative Models, Autonomous AI | Human-AI Collaboration            |
-| **Blockchain**       | Smart Contracts, Web3, DApps     | Decentralized World Systems       |
-| **Quantum Computing** | Quantum ML, Optimization Models  | Hyperdimensional Innovations      |
-| **Metaverse**        | 3D Frameworks, Immersive VR       | Virtual Collaboration Ecosystems  |
-
----
-
-## 📂 **MY FEATURED REPOSITORIES**
+## 📊 **INTERACTIVE LINUX METRICS**
 
 <div align="center">
-  <a href="https://github.com/yourusername/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical" alt="Repo 1">
-  </a>
-  <a href="https://github.com/yourusername/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical" alt="Repo 2">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://streak-stats.demolab.com/?user=ndregs&theme=highcontrast" alt="Streak Stats">
 </div>
 
 ---
 
-## 🌈 **CONTACT ME**
+## 📜 **MY FAVORITE ALIASES**
 
-<p align="center">
-  <a href="mailto:quantum.innovator@future.dev">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Futuristic-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Quantum-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Innovation%20Flow-cyan?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Universe-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```bash
+alias update='sudo pacman -Syu'
+alias clean='sudo pacman -Rns $(pacman -Qdtq)'
+alias g='git'
+alias v='nvim'
+alias htop='btop'
+alias dockerprune='docker system prune -a --volumes'
+```
 
 ---
 
 ## 💬 **QUOTE TO INSPIRE**
 
-> "The quantum universe is limitless, so is our capacity to innovate."
-> — Quantum Architect
+> "Linux is not just an OS; it's a philosophy, a journey, and a community of boundless innovation."
+> — The Open Source Enthusiast
 
 ---
 
-## 🛰️ **NEURAL INTERACTION METRICS**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=plastic&label=Neural+Interactions)
+![Profile Views](https://komarev.com/ghpvc/?username=ndregs&color=blueviolet&style=plastic&label=NEURAL+INTERACTIONS)
 ```
+
+---
+
+### **Fitur Baru dan Tambahan:**
+
+1. **Linux Style Integration**: Menonjolkan penggunaan **Manjaro** dan **Arch Linux**.
+2. **Alias & Tool Showcase**: Tampilkan alias bash favorit dan toolchain Linux.
+3. **Dotfiles Repository**: Visualisasi repositori untuk menonjolkan kontribusi Linux.
+4. **Filosofi Linux**: Penekanan pada pentingnya open-source dan fleksibilitas.
+5. **Statistik Interaktif**: Menambahkan grafis untuk aktivitas Linux.
+
+Profil ini menampilkan kamu sebagai **power-user Linux**, sekaligus pengembang yang berkomitmen terhadap **open-source** dan **teknologi masa depan**! 🚀
