@@ -1,5 +1,5 @@
 # 🌌 Hii, I'm Andre Gusman  
-![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡️&color=blue&style=flat-square)  
+![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡&color=blue&style=flat-square)  
 
 ## 🐧 **User Arch Linux (via Manjaro) Warrior**  
 
