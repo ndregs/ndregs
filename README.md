@@ -1,11 +1,11 @@
-<div align="center">
+<div align="center" style="font-family: 'Courier New', monospace;">
 
 # 🌌 haii, saya ndregs  
 ![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡&color=blue&style=flat-square)  
 
 ---
 
-## 🐧 **User Arch Linux (via Manjaro) Warrior**  
+## 🐧 **Aym User Arch Linux (via Manjaro) Warrior**  
 
 ```dynamic-system-log
 > SUDO_APT_FOUND = FALSE
