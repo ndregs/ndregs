@@ -5,7 +5,7 @@
 
 ---
 
-## 🐧 **Aym User Arch Linux (via Manjaro) Warrior**  
+## 🐧 **Aym Yuser Arch Linux (via Manjaro) Woryer**  
 
 ```dynamic-system-log
 > SUDO_APT_FOUND = FALSE
@@ -103,4 +103,3 @@
 **LAST TERMINAL TWEAK:** *[Kernel 5.20.0 -- System Stable]*  
 
 </div>
-```
