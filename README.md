@@ -30,7 +30,8 @@
 
 ### 🔧 **TECH STACK: LINUX DISTRO FLAVOR PARTY**  
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=archlinux,ubuntu,fedora,debian,manjaro,opensuse,centos,popos" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali,debian,mint,redhat,popos" /> </p>
+
 ---
 
 ### 🤓 **COMMAND LINE SPIRIT ANIMAL**  
