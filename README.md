@@ -28,12 +28,9 @@
 <div align="left">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=github-compact&radius=16" height="auto" alt="by ndregs"/>  
 
-### 🔧 **TECH STACK: MOSTLY PACMAN-POWERED**  
+### 🔧 **TECH STACK: LINUX DISTRO FLAVOR PARTY**  
 
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=archlinux,python,rust,tensorflow,kubernetes,react,nextjs,graphql,docker,neovim" />  
-</p>  
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=archlinux,ubuntu,fedora,debian,manjaro,opensuse,centos,popos" /> </p>
 ---
 
 ### 🤓 **COMMAND LINE SPIRIT ANIMAL**  
