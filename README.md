@@ -1,6 +1,3 @@
-Berikut adalah versi markdown dengan semua elemen dirapikan ke tengah menggunakan `<div align="center">`. 
-
-```markdown
 <div align="center">
 
 # 🌌 haii, saya ndregs  
