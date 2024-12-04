@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Courier New', monospace;">
+<div align="center" style="font-family: Arial, sans-serif;">
 
 # 🌌 haii, saya ndregs  
 ![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡&color=blue&style=flat-square)  
