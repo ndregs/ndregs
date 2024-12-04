@@ -1,5 +1,5 @@
 # 🌌 Hii, I'm Andre Gusman  
-![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=TERINSTALL+DI+KERNEL&color=blue&style=flat-square)  
+![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=User+Linux=>&color=blue&style=flat-square)  
 
 ## 🐧 **User Arch Linux (via Manjaro) Warrior**  
 
