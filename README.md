@@ -34,11 +34,20 @@
   <img src="https://skillicons.dev/icons?i=archlinux,python,rust,tensorflow,kubernetes,react,nextjs,graphql,docker,neovim" />  
 </p>  
 
+---
+
 ### 🤓 **COMMAND LINE SPIRIT ANIMAL**  
 
 | 🧠 **PACMAN INTELLIGENCE** | 💡 **PACKAGE INSTALL VELOCITY** | 🔄 **ROLLING RELEASE LUCK** |  
 |:--------------------------:|:-----------------------------:|:---------------------------:|  
 | 😎 NERD MODE ACTIVE | 🚀 SUPER SONIC SPEED | 🐧 ARCH UNBROKEN |  
+
+<div align="center">  
+  <img src="https://i.imgflip.com/7vohpw.jpg" alt="Rolling release life" width="400px"/>  
+  <small><em>"Upgrade today, fix tomorrow. Repeat infinitely."</em></small>  
+</div>  
+
+---
 
 ### 🔥 **CURRENT TERMINAL QUESTS**  
 
@@ -46,6 +55,13 @@
 - 🦾 Automating `yay` to say “NO BROKEN DEPENDENCIES”  
 - 🌍 Building a Linux desktop with meme-level efficiency  
 - 🐧 Spreading the **Arch Linux Gospel** one distro hopper at a time  
+
+<div align="center">  
+  <img src="https://i.imgflip.com/7voi88.jpg" alt="Read the Arch Wiki" width="350px"/>  
+  <small><em>"This isn't a bug, it's a feature."</em></small>  
+</div>  
+
+---
 
 ### 📊 **LINUX LIFE STATS**  
 
@@ -59,6 +75,8 @@
 - 🔧 Building kernels like Lego bricks  
 - 🐍 Breaking Vim configs for fun and profit  
 - 🛡️ Firing up `firewalld` and pretending it's a lightsaber  
+
+---
 
 ### 🛰️ **LINUX SOCIAL PROTOCOLS**  
 
@@ -74,10 +92,14 @@
   </a>  
 </p>  
 
+---
+
 ### 🤖 **QUOTE OF THE TERMINAL**  
 
-> `"Arch isn’t broken; you just don’t read the Wiki."`  
-> — Andre Gusman  
+<div align="center">  
+  <img src="https://i.imgflip.com/7vojp5.jpg" alt="Arch Wiki wisdom" width="450px"/>  
+  <small><em>"Arch isn't broken. You just didn't read the Wiki."</em></small>  
+</div>  
 
 ---
 
