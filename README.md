@@ -3,7 +3,6 @@
 # 🌌 haii, saya ndregs  
 ![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡&color=blue&style=flat-square)
 
-</div>
 
 ## 🐧 **User Arch Linux (via Manjaro) Warrior**  
 
@@ -108,3 +107,4 @@
 ![Pacman Update Counter](https://komarev.com/ghpvc/?username=ndregs&color=blueviolet&style=plastic&label=PACMAN+UPDATES)  
 
 **LAST TERMINAL TWEAK:** *[Kernel 5.20.0 -- System Stable]*  
+</div>
