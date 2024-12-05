@@ -36,13 +36,13 @@
 
 ### 🛰️ **MY SOCIAL PROTOCOLS**  
 
-<a href="mailto:arch.master@manjaro.dev">  
+<a href="mailto:andregsman@gmail.com">  
   <img alt="Send Kernel Logs" src="https://img.shields.io/badge/Sudo_Email_Protocol-FF6B6B?style=for-the-badge&logo=protonmail&logoColor=black" />  
 </a>  
 <a href="https://linkedin.com/in/arch-nerd">  
   <img alt="Hire Me for Configs" src="https://img.shields.io/badge/LinkedIn_Neovim_Lover-00A4E4?style=for-the-badge&logo=linkedin&logoColor=white" />  
 </a>  
-<a href="https://twitter.com/arch_comedian">  
+<a href="https:/x.com/baaksobakar/arch_comedian">  
   <img alt="Tweet Me Your Errors" src="https://img.shields.io/badge/Twitter_Nano%3F_Lol_No-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
 </a>  
 
