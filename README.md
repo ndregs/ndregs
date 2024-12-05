@@ -59,4 +59,6 @@
 
 **LAST TERMINAL TWEAK:** *[Kernel 5.20.0 -- System Stable]*  
 
-</div>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ouglvt7adehekmgyrlll5cktry)
+</div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ouglvt7adehekmgyrlll5cktry)
