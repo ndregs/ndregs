@@ -62,5 +62,3 @@
 </div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ouglvt7adehekmgyrlll5cktry)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndregs&show_icons=true)
