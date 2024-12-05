@@ -5,24 +5,10 @@
 
 ---
 
-## 🐧 **Aym Yuser Arch Linux (via Manjaro) Woryer**  
-
-```dynamic-system-log
-> SUDO_APT_FOUND = FALSE
-> PACMAN_HEALTH_CHECK = PASS
-> SYSTEM_UPTIME = WHO_NEEDS_REBOOT_ANYWAY
-```
-
----
-
-### 💻 **REAL-TIME PACMAN POWER-UP!**  
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Arch+User+%7C+Linux+Tinkerer;Patching+Kernel+in+Midnight;Rolling+Updates%2C+Rolling+Life" alt="Technological Manifesto" />  
 
 ---
-
-### 🐍 **DOTFILES SNEAK PEEK**  
-
+ 
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake-dark.svg" />  
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake.svg" />  
@@ -33,51 +19,24 @@
 
 ---
 
-### 🔧 **TECH STACK: LINUX DISTRO FLAVOR PARTY**  
+### 🔧 **LINUX DISTRO FLAVOR PARTY**  
 
 <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali,debian,mint,redhat,popos" />  
 
 ---
-
-### 🤓 **COMMAND LINE SPIRIT ANIMAL**  
-
-| 🧠 **PACMAN INTELLIGENCE** | 💡 **PACKAGE INSTALL VELOCITY** | 🔄 **ROLLING RELEASE LUCK** |  
-|:--------------------------:|:-----------------------------:|:---------------------------:|  
-| 😎 NERD MODE ACTIVE | 🚀 SUPER SONIC SPEED | 🐧 ARCH UNBROKEN |  
 
 <img src="https://i.imgflip.com/7vohpw.jpg" alt="Rolling release life" width="400px"/>  
 <small><em>"Upgrade today, fix tomorrow. Repeat infinitely."</em></small>  
 
 ---
 
-### 🔥 **CURRENT TERMINAL QUESTS**  
-
-- 🛠️ Configuring `i3` like a boss  
-- 🦾 Automating `yay` to say “NO BROKEN DEPENDENCIES”  
-- 🌍 Building a Linux desktop with meme-level efficiency  
-- 🐧 Spreading the **Arch Linux Gospel** one distro hopper at a time  
-
-<img src="https://i.imgflip.com/7voi88.jpg" alt="Read the Arch Wiki" width="350px"/>  
-<small><em>"This isn't a bug, it's a feature."</em></small>  
-
----
-
-### 📊 **LINUX LIFE STATS**  
+### 📊 **STATISTIC**  
 
 <img src="https://github-profile-trophy.vercel.app/?username=ndregs&theme=onedark&no-frame=true&row=1&column=7" alt="Achievement Singularity" />  
 
 ---
 
-### 🛠️ **SYSTEM TWEAK ZONES**  
-
-- 🤖 Writing scripts that automate everything (even tea breaks)  
-- 🔧 Building kernels like Lego bricks  
-- 🐍 Breaking Vim configs for fun and profit  
-- 🛡️ Firing up `firewalld` and pretending it's a lightsaber  
-
----
-
-### 🛰️ **LINUX SOCIAL PROTOCOLS**  
+### 🛰️ **MY SOCIAL PROTOCOLS**  
 
 <a href="mailto:arch.master@manjaro.dev">  
   <img alt="Send Kernel Logs" src="https://img.shields.io/badge/Sudo_Email_Protocol-FF6B6B?style=for-the-badge&logo=protonmail&logoColor=black" />  
