@@ -3,8 +3,6 @@
 # 🌌 haii, saya ndregs  
 ![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡&color=blue&style=flat-square)  
 
----
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Arch+User+%7C+Linux+Tinkerer;Patching+Kernel+in+Midnight;Rolling+Updates%2C+Rolling+Life" alt="Technological Manifesto" />  
 
 ---
