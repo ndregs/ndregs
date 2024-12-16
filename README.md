@@ -17,7 +17,7 @@
 
 ---
 
-### 🔧 **LINUX DISTRO FLAVOR PARTY**  
+### 🔧 **LINUX DISTRO FLAVOR PARTYY**  
 
 <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali,debian,mint,redhat,popos" />  
 
