@@ -13,7 +13,9 @@
   <img src="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />  
 </picture>  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=github-compact&radius=16" height="auto" alt="by ndregs"/>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=github-compact&radius=16" height="auto" alt="by ndregs"/>
+![image](https://github.com/user-attachments/assets/7ad5e50f-e920-4502-b1b3-319687040b06)
+
 
 ---
 
