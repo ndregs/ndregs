@@ -46,12 +46,10 @@ Documentation & SOP-based tasks
 ### 🔹 Personal Portfolio Website
 Static website built with HTML, CSS, and JavaScript  
 Deployed using GitHub Pages  
-🔗 https://github.com/ndregs/portfolio
 
 ### 🔹 Linux Notes & Practice
 Personal Linux notes covering commands, configs, and troubleshooting  
 Focused on real daily usage  
-🔗 https://github.com/ndregs/linux-notes
 
 
 ---
