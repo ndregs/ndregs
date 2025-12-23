@@ -1,66 +1,47 @@
-<div align="center" style="font-family: Arial, sans-serif;">
-
-# 🌌 haii, saya ndregs  
-![Profil Views](https://komarev.com/ghpvc/?username=ndregs&label=YANG+YAKIN+GW+ORANG+GANTENG+➡&color=blue&style=flat-square)  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Arch+User+%7C+Java+Script+User;Patching+Kernel+in+Midnight;Rolling+Updates%2C+Rolling+Life" alt="Technological Manifesto" />  
-
----
- 
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake-dark.svg" />  
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake.svg" />  
-  <img src="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />  
-</picture>  
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=github-compact&radius=16" height="auto" alt="by ndregs"/>
-![image](https://github.com/user-attachments/assets/7ad5e50f-e920-4502-b1b3-319687040b06)
-
+# Andre Gusman
+**Junior IT Support | Linux Enthusiast**
 
 ---
 
-### 🔧 **LINUX DISTRO FLAVOR PARTYY**  
-
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali,debian,mint,redhat,popos" />  
-
----
-
-<img src="https://i.imgflip.com/7vohpw.jpg" alt="Rolling release life" width="400px"/>  
-<small><em>"Upgrade today, fix tomorrow. Repeat infinitely."</em></small>  
+## About Me
+Entry-level IT Support with hands-on experience using Linux (Arch-based systems).
+Familiar with basic system troubleshooting, file permissions, user management,
+and deploying simple static websites using GitHub Pages.
+Actively learning and building practical projects to strengthen real-world skills.
 
 ---
 
-### 📊 **STATISTIC**  
-
-<img src="https://github-profile-trophy.vercel.app/?username=ndregs&theme=onedark&no-frame=true&row=1&column=7" alt="Achievement Singularity" />  
-
----
-
-### 🛰️ **MY SOCIAL PROTOCOLS**  
-
-<a href="mailto:andregsman@gmail.com">  
-  <img alt="Send Kernel Logs" src="https://img.shields.io/badge/Sudo_Email_Protocol-FF6B6B?style=for-the-badge&logo=protonmail&logoColor=black" />  
-</a>  
-<a href="https://linkedin.com/in/arch-nerd">  
-  <img alt="Hire Me for Configs" src="https://img.shields.io/badge/LinkedIn_Neovim_Lover-00A4E4?style=for-the-badge&logo=linkedin&logoColor=white" />  
-</a>  
-<a href="https:/x.com/baaksobakar/arch_comedian">  
-  <img alt="Tweet Me Your Errors" src="https://img.shields.io/badge/Twitter_Nano%3F_Lol_No-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
-</a>  
+## Technical Skills
+- Linux (basic–intermediate): file system, permissions, package management
+- Command Line (Bash): basic scripting & automation
+- Git & GitHub
+- HTML, CSS, JavaScript (basic)
+- Static website deployment (GitHub Pages)
+- Documentation & SOP-based work
 
 ---
 
-### 🤖 **QUOTE OF THE TERMINAL**  
+## Projects
+### 🔹 Personal Portfolio Website
+- Built a static portfolio using HTML, CSS, and JavaScript
+- Deployed using GitHub Pages
+- Focused on clean structure and responsive layout  
+🔗 Repo: https://github.com/ndregs/portfolio
 
-<img src="https://i.imgflip.com/7vojp5.jpg" alt="Arch Wiki wisdom" width="450px"/>  
-<small><em>"Arch isn't broken. You just didn't read the Wiki."</em></small>  
+### 🔹 Linux Practice & Notes
+- Personal repository for Linux commands, troubleshooting notes, and configs
+- Covers permissions, directory structure, and basic system maintenance  
+🔗 Repo: https://github.com/ndregs/linux-notes
 
 ---
 
-![Pacman Update Counter](https://komarev.com/ghpvc/?username=ndregs&color=blueviolet&style=plastic&label=PACMAN+UPDATES)  
+## Currently Learning
+- Linux system administration fundamentals
+- Basic networking (IP, DNS, ports)
+- Bash scripting for automation
 
-**LAST TERMINAL TWEAK:** *[Kernel 5.20.0 -- System Stable]*  
+---
 
-</div>
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31ouglvt7adehekmgyrlll5cktry&width=800&height=300)
+## Contact
+📧 Email: andregsman@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/your-clean-link
