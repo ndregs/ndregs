@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Arial, sans-serif;">
+  <div align="center" style="font-family: Arial, sans-serif;">
 
 # Andre Gusman  
 **Junior IT Support | Linux Enthusiast**
@@ -53,32 +53,6 @@ Personal Linux notes covering commands, configs, and troubleshooting
 Focused on real daily usage  
 🔗 https://github.com/ndregs/linux-notes
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndregs&theme=github-compact&radius=16" />
-</p>
-
----
-
-## 🐧 Linux Journey (Personal Section)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/ndregs/my-pinned/blob/main/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://i.imgflip.com/7vohpw.jpg" width="360px" />
-</p>
-<p align="center">
-  <em>"Rolling release teaches responsibility."</em>
-</p>
 
 ---
 
@@ -87,9 +61,6 @@ Focused on real daily usage
 <p align="center">
   <a href="mailto:andregsman@gmail.com">
     <img src="https://img.shields.io/badge/Email-andregsman@gmail.com-red?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/andre-gusman">
-    <img src="https://img.shields.io/badge/LinkedIn-Andre_Gusman-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
