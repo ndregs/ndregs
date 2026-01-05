@@ -1,7 +1,7 @@
   <div align="center" style="font-family: Arial, sans-serif;">
 
 # Andre Gusman  
-**Junior IT Support | Linux Enthusiast**
+**Junior IT | Linux Enthusiast**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ndregs&label=Profile+Views&color=blue&style=flat-square" />
