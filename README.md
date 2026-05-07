@@ -1,87 +1,65 @@
 <div align="center">
 
-<!-- Typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Andregs+%F0%9F%91%8B;IT+Support+%26+System+Tinkerer;Linux+%7C+Git+%7C+Web+Deployment;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+# Hi there, I'm Andregs 👋
+
+<p>
+  IT professional with a focus on reliable technical support, system administration, and modern web deployment. Passionate about solving real-world problems efficiently using Linux, Git, and cloud tools.
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-andregsman.eu.org-1f4e05?style=for-the-badge&logo=portfolio&logoColor=white)](https://andregsman.eu.org)
 
 </div>
 
----
-
 ## About Me
 
-I'm a tech-oriented generalist with hands-on experience in IT support, system administration, and web deployment. I work comfortably across Linux environments, developer toolchains, and productivity platforms — with a strong focus on getting things done reliably and efficiently.
+Reliable IT support specialist and technical troubleshooter with hands-on experience in Linux environments, website deployment, and Git workflows. I excel at setting up domains with Cloudflare, managing basic networking, and streamlining administrative tasks. Quick learner who adapts to new technologies and thrives in fast-paced, tech-driven settings.
 
-I'm not afraid to dig into documentation, experiment with configurations, or use AI-assisted workflows to solve problems faster. I care about clean processes, clear communication, and continuous improvement.
+Currently enhancing projects with AI-assisted coding and maintaining a focus on practical, scalable solutions.
 
----
+## Skills & Tools
 
-## 🛠️ Skills & Tools
+<div align="center">
 
-### Systems & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
-
-### Development & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Web Deployment](https://img.shields.io/badge/Web_Deployment-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Domain Management](https://img.shields.io/badge/Domain_Management-FF6600?style=flat-square&logo=namecheap&logoColor=white)
+### Technical
+![Linux](https://img.shields.io/badge/Linux-FCC324?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1f4e05?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### Productivity & Creative
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_Editing-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![Image Editing](https://img.shields.io/badge/Image_Editing-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=Microsoft&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-FF0000?style=for-the-badge&logo=video&logoColor=white)
+![Image Editing](https://img.shields.io/badge/Image_Editing-00D4AA?style=for-the-badge&logo=adobePhotoshop&logoColor=white)
 
-### AI & Problem Solving
-![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Workflow-412991?style=flat-square&logo=openai&logoColor=white)
-![Fast Learner](https://img.shields.io/badge/Fast_Learner_%E2%9A%A1-22C55E?style=flat-square)
+</div>
 
----
+## Current Focus
+- Strengthening GitHub workflows and open-source contributions
+- Deploying and optimizing websites with Cloudflare and Linux servers
+- Leveraging AI tools for efficient coding and automation
+- Building a portfolio of practical IT and creative projects
 
-## 🎯 Current Focus
+## Portfolio
+Explore my work at [andregsman.eu.org](https://andregsman.eu.org) – featuring deployed sites, troubleshooting guides, and multimedia edits.
 
-- Deepening my Linux and server administration skills
-- Exploring automation and scripting for system tasks
-- Building and deploying projects with modern web tooling
-- Leveraging AI tools to write better code and solve problems efficiently
-
----
-
-## 🌐 Portfolio
-
-Check out my work and projects at:
-
-**[andregsman.eu.org](https://andregsman.eu.org)**
-
----
-
-## 📂 What You'll Find Here
-
-- Personal projects and experiments
-- Deployment configurations and setup guides
-- Utilities and tools built with AI-assisted development
-- Documentation and notes from things I've learned
-
----
-
-## 📬 Get in Touch
-
-<div align="left">
-
-[![Website](https://img.shields.io/badge/Website-andregsman.eu.org-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://andregsman.eu.org)
-[![GitHub](https://img.shields.io/badge/GitHub-ndregs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ndregs)
+## Let's Connect
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andregs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andregs@example.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"I learn fast, I adapt, and I figure things out."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndregs&color=58A6FF&style=flat-square&label=Profile+Views)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ndregs&show_icons=true&theme=radical&hide_border=true" alt="Andregs GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndregs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%"/>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndregs&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+</div>
+
+*Open to collaboration on IT support, web deployment, and creative tech projects.*
